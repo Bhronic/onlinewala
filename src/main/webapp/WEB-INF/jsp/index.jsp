@@ -2,6 +2,8 @@
 <body>
 <form action="/onlineapp/home" method="POST">
   <center>
+  <h4 style="color: red;">${status}</h4>
+  <h4 style="color: green;">${statusLogout }</h4>
  <table border="5">
   <tr><td colspan="2">Login page</td></tr>
   
